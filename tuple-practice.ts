@@ -1,0 +1,1 @@
+let tuple: [string, number] = ['hi', 10];
